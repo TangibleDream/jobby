@@ -1,1 +1,1 @@
-# jobby
+This is a job score form generator for obsidian.

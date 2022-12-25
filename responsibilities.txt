@@ -1,0 +1,11 @@
+Perform manual testing, when applicable
+Develop and own all manual test plans, automated test cases, tooling, and integration with the product development process for a specific business area of the application
+Coordinating automation work with team members and other teams
+Ensure stakeholders are kept informed across different teams
+Perform functional testing of new and existing features in an agile development environment
+Identify automatable scenarios and design automation tests to support faster release of code in a continuous integration and continuous delivery environment
+Improve the code quality by implementing new ideas, organizing tests, building reusable components and refactoring existing tests
+Perform peer review of automation tests and suggest ways to improve code quality and automation test coverage
+Work closely with product, design, and engineering teams to define quality
+Clearly communicate delivery risks and suggest the best approach to resolve the issues
+Advocate for quality standards and ensure the Quality Assurance process is followed consistently as per organizational best practices
